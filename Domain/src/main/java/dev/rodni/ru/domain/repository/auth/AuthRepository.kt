@@ -1,4 +1,4 @@
-package dev.rodni.ru.domain.repository
+package dev.rodni.ru.domain.repository.auth
 
 interface AuthRepository {
     //todo change params
